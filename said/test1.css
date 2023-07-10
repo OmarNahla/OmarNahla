@@ -1,0 +1,18 @@
+.parent{
+    background-color: rgb(6, 146, 99);
+    flex-flow:row wrap-reverse ;
+
+}
+
+._1{
+margin: 10px;
+padding: 10px;
+background-color: gold;
+
+}
+._2{
+    margin: 10px;
+    padding: 10px;
+    background-color: silver;
+
+}
